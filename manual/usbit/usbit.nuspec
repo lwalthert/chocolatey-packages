@@ -3,7 +3,7 @@
   <metadata>
     <id>usbit</id>
     <version>1.72</version>
-    <!-- <packageSourceUrl>Will be replaced soon.</packageSourceUrl>-->
+    <packageSourceUrl>https://github.com/lwalthert/chocolatey-packages/tree/develop/manual/usbit</packageSourceUrl>
     <owners>Leo Walthert</owners>
     <!-- == SOFTWARE SPECIFIC SECTION == -->
     <!-- This section is about the software itself -->
